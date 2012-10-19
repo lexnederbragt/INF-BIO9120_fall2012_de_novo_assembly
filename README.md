@@ -9,4 +9,6 @@ The works created for the course are released under a Creative Commons Attributi
 This license lets you distribute, remix, tweak, and build upon our work, even commercially, as long as you credit us for the original creation
 by referring to this website.
 
+Parts of this course are based on the de novo assembly tutorial given by Nick Loman and me, see https://github.com/lexnederbragt/denovo-assembly-tutorial
+
 Lex Nederbragt, on behalf of the Norwegian Sequencing Centre (www.sequencing.uio.no)
